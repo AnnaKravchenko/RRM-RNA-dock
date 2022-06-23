@@ -192,7 +192,7 @@ help="""
 Anchoring nucleotide index for betasheet 3, e.g. '2' or '3' etc.
 """)
 
-parser.add_argument('-conf', '--configuraion_file', type=str, const='/data3/akravche/data21/anchors/mdir/deliv1/config.ini', nargs='?',
+parser.add_argument('-conf', '--configuraion_file', type=str, const='%s/mdir/config.ini' % scr, nargs='?',
 help=""" Configuration file with advanced parameters. Leave empty to use default file. 
 """)
 
@@ -205,7 +205,7 @@ print("* Read user input...")
 print("****************************************")
 conf = str(args.configuraion_file)
 if conf == "None":
-    conf = '/data3/akravche/data21/anchors/mdir/deliv1/config.ini'
+    conf = '%s/mdir/config.ini' % scr
 
 wdir = args.work_directory+'/'
 prId = args.uniProtID
