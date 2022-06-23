@@ -1,0 +1,20 @@
+# This test set is created by removing this RRM instance : Q12046_RRM1
+Structures to test:
+1. 
+RRM1: 5GM6_R : 112_U_N : Beta1
+RRM1: 5GM6_R : 113_U_N : Beta3
+
+2. 
+RRM1: 6BK8_G : 13_U_i : Beta1
+RRM1: 6BK8_G : 14_U_i : Beta3
+
+3.
+RRM1: 5Y88_N : 13_U_E :Beta1
+RRM1: 5Y88_N : 14_U_E : Beta3
+
+4.
+RRM1: 5MPS_M : 13_U_I : Beta1
+RRM1: 5MPS_M : 14_U_I : Beta3
+
+5.
+RRM1: 5WSG_R : 112_U_N : Beta1

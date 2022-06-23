@@ -1,0 +1,55 @@
+# This test set is created by removing this RRM instance : P09012_RRM1
+Structures to test:
+1. 
+RRM1: 1AUD_A : 43_C_B : Beta1
+RRM1: 1AUD_A : 44_A_B : Beta3
+
+2. 
+RRM1: 1DRZ_A : 152_C_B : Beta1
+RRM1: 1DRZ_A : 153_A_B : Beta3
+
+3.
+RRM1: 1DZ5_A : 43_C_D : Beta1
+RRM1: 1DZ5_A : 44_A_D : Beta3
+
+4.
+RRM1: 1DZ5_B : 17_C_D : Beta1
+RRM1: 1DZ5_B : 18_A_D : Beta3
+
+5.
+RRM1: 1M5K_C : 40_C_B : Beta1
+RRM1: 1M5K_C : 41_A_B : Beta3
+
+6.
+RRM1: 1M5K_F : 40_C_E : Beta1
+RRM1: 1M5K_F : 41_A_E : Beta3
+
+7.
+RRM1: 1M5O_C : 40_C_B : Beta1
+RRM1: 1M5O_C : 41_A_B : Beta3
+
+8.
+RRM1: 1M5O_F : 40_C_E : Beta1
+RRM1: 1M5O_F : 41_A_E : Beta3
+
+9.
+RRM1: 1SJ3_P : 152_C_R : Beta1
+RRM1: 1SJ3_P : 153_A_R : Beta3
+
+10.
+RRM1: 1U6B_A : 1007_C_B : Beta1
+RRM1: 1U6B_A : 1008_A_B : Beta3
+
+11.
+RRM1: 1URN_A : 10_C_P : Beta1
+RRM1: 1URN_A : 11_A_P : Beta3
+
+12. 
+RRM1: 1VBX_A : 152_C_B : Beta1
+RRM1: 1VBX_A : 153_A_B : Beta3
+
+13. 
+RRM1: 3IWN_D : 163_A_B : Beta3
+
+14.
+RRM1: 3JB9_k : 164_C_P : Beta1
